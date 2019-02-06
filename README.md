@@ -1,5 +1,11 @@
 # Overview
-This repository contains all the code needed to complete the final project for the Localization course in Udacity's Self-Driving Car Nanodegree.
+The repo has all the code for a working Kidnapped vehicle project.
+
+<p align="center">
+<a href="https://youtu.be/3C02dMdpjiE"><img src="./kidnapped_vehicle_gif.gif" alt="Kidnapped Vehicle Particle Filter" width="70%" height="70%">
+</a>
+<br> Kidnapped Vehicle Particle Filter
+</p>
 
 #### Submission
 All you will need to submit is your `src` directory. You should probably do a `git pull` before submitting to verify that your project passes the most up-to-date version of the grading code (there are some parameters in `src/main.cpp` which govern the requirements on accuracy and run time).
